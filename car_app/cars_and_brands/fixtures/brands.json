@@ -1,0 +1,26 @@
+[
+    {
+      "model": "cars_and_brands.brand",
+      "pk": 1,
+      "fields": {
+        "name": "Toyota",
+        "country": "Japan"
+      }
+    },
+    {
+      "model": "cars_and_brands.brand",
+      "pk": 2,
+      "fields": {
+        "name": "Tesla",
+        "country": "US"
+      }
+    },
+    {
+      "model": "cars_and_brands.brand",
+      "pk": 3,
+      "fields": {
+        "name": "Seat",
+        "country":"Spain"
+      }
+    }
+  ]

@@ -1,0 +1,28 @@
+[
+    {
+      "model": "cars_and_brands.car",
+      "pk": 1,
+      "fields": {
+        "brand": 1,
+        "model": "Camry"
+      }
+    }, 
+    {
+        "model": "cars_and_brands.car",
+        "pk": 2,
+        "fields": {
+          "brand": 2,
+          "model": "S"
+        }
+      },
+    {
+        "model":"cars_and_brands.car",
+        "pk":3,
+        "fields": {
+            "brand":3,
+            "model":"Ibiza"
+        }
+
+    }
+    
+  ]
